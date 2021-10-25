@@ -1,4 +1,4 @@
-/* codded by afnanplk
+/* codded by En cuzier
 */
 
 const { Sequelize } = require('sequelize');
